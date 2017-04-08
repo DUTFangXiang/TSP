@@ -1,0 +1,11 @@
+﻿生成启动时间为 2017/4/7 19:37:43。
+     1>项目“D:\华为软件大赛\模拟退火\模拟退火\模拟退火\模拟退火.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\LearningTool\VS2013\VC\bin\CL.exe /c /I"D:\LearningTool\MFC绘图插件\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\华为软件大赛\模拟退火\模拟退火\模拟退火\main.cpp(30): error C2105: “++”需要左值
+     1>已完成生成项目“D:\华为软件大赛\模拟退火\模拟退火\模拟退火\模拟退火.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.57
